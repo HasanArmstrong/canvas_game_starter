@@ -10,9 +10,9 @@ To use this app go here https://frosty-jepsen-49b817.netlify.com/
 
 Here's a walkthrough of implemented user stories.
 
-```
+
 <img src='http://g.recordit.co/ZQOxn4S5qw.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-```
+
 
 ## Code Reviews
 
