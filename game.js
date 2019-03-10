@@ -8,6 +8,7 @@
 Here, we create and add our "canvas" to the page.
 We also load all of our images. 
 */
+/
 
 let canvas;
 let ctx;
